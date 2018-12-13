@@ -1,9 +1,6 @@
 {
   "username": "Leon,"
   "avatar-url": "https://vignette.wikia.nocookie.net/villains/images/0/03/KenKanekVolume16.png/revision/latest/scale-to-width-down/310?cb=20180712195220",
-  }
-
-{
   "embeds": [
     {
     "color": "16119285",
@@ -26,5 +23,6 @@ If at any point you feel like you are being harassed or discriminated against in
     "title": "(4) If you choose to block another user, do it silently."
     "description": "If you decide to block someone there is no need to inform the person, dramatize the situation, or announce it publicly."
     }
-  ]
+   ]
+}
 }
