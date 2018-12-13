@@ -1,1 +1,32 @@
+{
+  "username": "Leon,"
+  "avatar-url": "https://vignette.wikia.nocookie.net/villains/images/0/03/KenKanekVolume16.png/revision/latest/scale-to-width-down/310?cb=20180712195220",
+  }
 
+{
+  "embeds": [
+    {
+    "color": "16119285",
+    "title": "(1) Refrain from being toxic, flaming or trying to flame-bait",
+    "description": "I made this Discord to connect the community even further. It is fine if you don't want to be a part of that, but please leave the server if so."
+    },
+    {
+    "color": "16119285",
+    "title": "(2) Keep all voice and text communication in English only.",
+    "description": "Failure to abide by this rule will result in a mute."
+    },
+    {
+    "color": "16119285",
+    "title": "(3) Harassment or Discrimination will not be tolerated.",
+    "description": "Anyone that feels the need to harass or discriminate a fellow member will be instantly banned, no second chances whatsoever.
+If at any point you feel like you are being harassed or discriminated against in any way, do not hesitate to report the member so a staff member can deal with the situation accordingly."
+    }
+    {
+    "color": "16119285",
+    "title": "(4) If you choose to block another user, do it silently."
+    "description": "If you decide to block someone there is no need to inform the person, dramatize the situation, or announce it publicly."
+    }
+  ]
+}
+
+{
